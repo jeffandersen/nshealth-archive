@@ -17,7 +17,26 @@ The default way is to pass the URL of exposures as the first argument:
 node index.js [URL]
 ```
 
-Alternatively these environment variables are available:
+Which results in output in the following format:
+
+```
+date,locale_name,locale_address,start_time,end_time
+```
+
+#### Example
+
+```
+$ node index.js http://www.nshealth.ca/news/potential-covid-19-exposure-21-halifax-locations
+$ cat tuesday-november-24-2020-0822pm.csv
+date,locale_name,locale_address,start_time,end_time
+Nov. 14,The Pint Public House,"1575 Argyle St, Halifax",10:00 p.m.,close
+Nov. 14,The BOARD ROOM GAME CAFÉ,"1256 Barrington St, Halifax",9:30 p.m.,close
+...
+```
+
+## Environment variables
+
+The following variables are supported for configuration:
 
 | Environment variable | Description |
 | -- | -- |
