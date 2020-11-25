@@ -2,6 +2,8 @@
 
 The number of potential COVID-19 exposures is too long to process manually now. This script will take the URL of the Nova Scotia Health news entry and convert it to a CSV of locations and dates of potential exposure.
 
+*DISCLAIMER:* This script is intended for educational purposes; seek legal advice for the legality of its operation.
+
 ## Installation
 
 ```
