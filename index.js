@@ -5,9 +5,14 @@ const { convertArrayToCSV } = require('convert-array-to-csv');
 
 
 // URL and document selector used to narrow down results
-const targetURL = process.env.TARGET_URL || process.argv[2] || 'http://www.nshealth.ca/news/potential-covid-19-exposure-21-halifax-locations';
+const targetURL = process.env.TARGET_URL || process.argv[2] || '';
 const documentSelector = process.env.DOCUMENT_CONTENT_SELECTOR || '.l-content article ul li';
 const dateSelector = process.env.DOCUMENT_DATE_SELECTOR || '.l-content article .news__post-date';
+
+if (!targetURL) {
+  throw new Error('Missing target URL');
+  process.exit(1);
+}
 
 // Where to save the CSV file
 const exportFilename = process.env.EXPORT_FILENAME;
