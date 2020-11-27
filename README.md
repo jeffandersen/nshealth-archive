@@ -1,6 +1,6 @@
-# nshealth archive
+# nshealth-archive
 
-**DISCLAIMER:** This script is intended for educational purposes. You may use it at your own risk and seek legal advice pursuant to its operation before use.
+> **DISCLAIMER:** This script is intended for educational purposes. You may use it at your own risk and seek legal advice pursuant to its operation before use.
 
 The number of potential COVID-19 exposures is too long to process manually now. This script will take the URL of the Nova Scotia Health news entry and convert it to a a flat file of locations and dates of potential COVID-19 exposure.
 
