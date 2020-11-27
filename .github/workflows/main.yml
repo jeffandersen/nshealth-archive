@@ -17,6 +17,8 @@ jobs:
         with:
           node-version: '12'
 
+      - run: npm install
+
       - name: Crawl and archive the results
         run: SEARCH_LIMIT=1 ./bin/crawl
 
