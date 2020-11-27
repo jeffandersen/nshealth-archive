@@ -4,6 +4,10 @@
 
 The number of potential COVID-19 exposures is too long to process manually now. This script will take the URL of the Nova Scotia Health news entry and convert it to a a flat file of locations and dates of potential COVID-19 exposure.
 
+## Data Archive
+
+Datasets generated from this tool are added to the [data folder](./data) on a regular cadence.
+
 ## Installation
 
 ```
