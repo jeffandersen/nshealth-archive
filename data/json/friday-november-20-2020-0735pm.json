@@ -1,0 +1,38 @@
+[
+  {
+    "date": "Sat Nov 13 2021",
+    "locale_name": "The Pint Public House",
+    "locale_address": "1575 Argyle St., Halifax",
+    "start_time": "10 p.m.",
+    "end_time": "12 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Fri, 27 Nov 2020 04:00:15 GMT"
+  },
+  {
+    "date": "Sat Nov 13 2021",
+    "locale_name": "Julep Kitchen & Cocktails",
+    "locale_address": "1684 Barrington St., Halifax",
+    "start_time": "5:45 p.m.",
+    "end_time": "10:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Fri, 27 Nov 2020 04:00:15 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Durty Nelly’s",
+    "locale_address": "1645 Argyle St., Halifax",
+    "start_time": "5 p.m.",
+    "end_time": "9:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Fri, 27 Nov 2020 04:00:15 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Freeman’s Little New York",
+    "locale_address": "1726 Grafton St., Halifax",
+    "start_time": "7:30 p.m.",
+    "end_time": "11 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Fri, 27 Nov 2020 04:00:15 GMT"
+  }
+]

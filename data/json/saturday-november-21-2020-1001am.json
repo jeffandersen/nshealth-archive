@@ -1,0 +1,47 @@
+[
+  {
+    "date": "Mon Nov 15 2021",
+    "locale_name": "Bell Aliant",
+    "locale_address": "209 Chain Lake Drive, Halifax",
+    "start_time": "3:00 p.m.",
+    "end_time": "4:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-locations-0",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:50 GMT"
+  },
+  {
+    "date": "Tue Nov 16 2021",
+    "locale_name": "Halifax Central Library",
+    "locale_address": "5440 Spring Garden Rd, Halifax",
+    "start_time": "3:00 p.m.",
+    "end_time": "5:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-locations-0",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:50 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Goodlife Fitness Halifax Clayton Park",
+    "locale_address": "70 Lacewood Dr, Halifax",
+    "start_time": "11:00 a.m.",
+    "end_time": "1:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-locations-0",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:50 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Goodlife Fitness Tantallon Westwood",
+    "locale_address": "3650 Hammonds Plains Rd, Upper Tantallon",
+    "start_time": "2:30 p.m.",
+    "end_time": "5:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-locations-0",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:50 GMT"
+  },
+  {
+    "date": "Thu Nov 18 2021",
+    "locale_name": "Sobeys Spryfield",
+    "locale_address": "279 Herring Cove Rd, Halifax",
+    "start_time": "4:00 p.m.",
+    "end_time": "5:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-various-halifax-locations-0",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:50 GMT"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "date": "Mon Nov 15 2021",
+    "locale_name": "The Stubborn Goat Gastropub",
+    "locale_address": "1579 Grafton St, Halifax",
+    "start_time": "4:00 p.m.",
+    "end_time": "6:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  },
+  {
+    "date": "Mon Nov 15 2021",
+    "locale_name": "The Old Triangle Irish Alehouse",
+    "locale_address": "5136 Prince St, Halifax",
+    "start_time": "6:00 p.m.",
+    "end_time": "9:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Head Shoppe Halifax Shopping Centre",
+    "locale_address": "7001 Mumford Rd, Halifax",
+    "start_time": "8:30 a.m.",
+    "end_time": "4:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  },
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "Head Shoppe Halifax Shopping Centre",
+    "locale_address": "7001 Mumford Rd, Halifax",
+    "start_time": "1:30 p.m.",
+    "end_time": "9:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Garden Café",
+    "locale_address": "5475 Clyde St, Halifax",
+    "start_time": "3 p.m.",
+    "end_time": "5:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  },
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "Barrington Steakhouse",
+    "locale_address": "1662 Barrington St, Halifax",
+    "start_time": "7:30 p.m.",
+    "end_time": "10:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  },
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "Durty Nelly’s",
+    "locale_address": "1645 Argyle St, Halifax",
+    "start_time": "9:30 p.m.",
+    "end_time": "12:30 a.m.",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  },
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "Halifax Alehouse",
+    "locale_address": "1717 Brunswick St, Halifax",
+    "start_time": "10:30 p.m.",
+    "end_time": "close",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  },
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "Kai Brady’s aka The Fickle Frog Pub",
+    "locale_address": "5679 Spring Garden Rd, Halifax",
+    "start_time": "10:30 p.m.",
+    "end_time": "close",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Halifax Shopping Centre Food Court",
+    "locale_address": "7001 Mumford Rd, Halifax",
+    "start_time": "5:00 p.m.",
+    "end_time": "6:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Cora Breakfast and Lunch aka Cora’s",
+    "locale_address": "1535 Dresden Rd, Halifax",
+    "start_time": "7:00 a.m.",
+    "end_time": "10:30 a.m.",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Boston Pizza",
+    "locale_address": "1858 Granville St, Halifax",
+    "start_time": "7:00 p.m.",
+    "end_time": "10:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Stillwell Freehouse",
+    "locale_address": "2534 Agricola St, Halifax",
+    "start_time": "9:00 p.m.",
+    "end_time": "11:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov23-covid-19-exposures-16-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:40 GMT"
+  }
+]

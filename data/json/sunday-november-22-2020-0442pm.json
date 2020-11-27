@@ -1,0 +1,155 @@
+[
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Athen’s Restaurant",
+    "locale_address": "6273 Quinpool Rd, Halifax",
+    "start_time": "1:30 p.m.",
+    "end_time": "4:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "Truly Tasty Restaurant",
+    "locale_address": "6210 Quinpool Rd, Halifax",
+    "start_time": "5:30 p.m.",
+    "end_time": "8:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "aFrite Restaurant",
+    "locale_address": "1360 Lower Water St, Halifax",
+    "start_time": "6:30 p.m.",
+    "end_time": "9:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Tue Nov 16 2021",
+    "locale_name": "Goodlife Fitness Bedford Hemlock Square",
+    "locale_address": "41 Peakview Way, Halifax",
+    "start_time": "5:00 p.m.",
+    "end_time": "6:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Tue Nov 16 2021",
+    "locale_name": "Lawton’s Drug Store Scotia Square",
+    "locale_address": "5201 Duke St, Halifax",
+    "start_time": "9:30 a.m.",
+    "end_time": "12:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Sport Chek Halifax Shopping Centre",
+    "locale_address": "7001 Mumford Rd, Halifax",
+    "start_time": "12:00 p.m.",
+    "end_time": "3:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Bath and Bodyworks Halifax Shopping Centre",
+    "locale_address": "7001 Mumford Rd, Halifax",
+    "start_time": "12:00 p.m.",
+    "end_time": "3:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Fitness FX",
+    "locale_address": "6330 Quinpool Rd, Halifax",
+    "start_time": "9:30 a.m.",
+    "end_time": "11:00 a.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Thu Nov 18 2021",
+    "locale_name": "Dollarama Scotia Square",
+    "locale_address": "5201 Duke St, Halifax",
+    "start_time": "4:45 p.m.",
+    "end_time": "6:15 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Scotia Square Mall Food Court",
+    "locale_address": "5201 Duke St, Halifax",
+    "start_time": "11:30 a.m.",
+    "end_time": "1:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Atlantic Superstore Barrington",
+    "locale_address": "1075 Barrington St, Halifax",
+    "start_time": "12:30 p.m.",
+    "end_time": "2:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Sobeys Clayton Park",
+    "locale_address": "287 Lacewood Dr, Halifax",
+    "start_time": "11:00 a.m.",
+    "end_time": "12:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Sobeys Windsor Street",
+    "locale_address": "2651 Windsor St, Halifax",
+    "start_time": "8:30 a.m.",
+    "end_time": "9:30 a.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "HaliMac Axe Throwing",
+    "locale_address": "1920 Brunswick St, Halifax",
+    "start_time": "4:30 p.m.",
+    "end_time": "7:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Tue Nov 16 2021",
+    "locale_name": "Stillwell",
+    "locale_address": "1672 Barrington St, Halifax",
+    "start_time": "9:00 p.m.",
+    "end_time": "11:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Thu Nov 18 2021",
+    "locale_name": "Vitality MediSpa",
+    "locale_address": "5424 Doyle St, Halifax",
+    "start_time": "11:00 a.m.",
+    "end_time": "2:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  },
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "Vitality MediSpa",
+    "locale_address": "5424 Doyle St, Halifax",
+    "start_time": "9:00 a.m.",
+    "end_time": "12:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nov22-covid-19-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:03 GMT"
+  }
+]

@@ -1,11 +1,8 @@
 {
-  "name": "nshealth-scrape",
+  "name": "nshealth-archive",
   "version": "1.0.0",
-  "description": "Export nshealth potential exposures to a CSV",
+  "description": "Archive publicly available information for later reference",
   "main": "index.js",
-  "bin": {
-    "nshealth-scrape": "./index.js"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "convert-array-to-csv": "^2.0.0",
+    "json2csv": "^5.0.5",
     "puppeteer": "^5.5.0"
   }
 }

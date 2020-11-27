@@ -1,0 +1,27 @@
+#!/usr/bin/env node
+
+const { scrape, saveToDisk } = require('../lib/scrape');
+
+// Scrape configuration options
+const options = {
+  targetURL: process.env.TARGET_URL || process.argv[2],
+  documentSelector: process.env.SCRAPE_CONTENT_SELECTOR,
+  dateSelector: process.env.SCRAPE_DATE_SELECTOR,
+};
+
+console.log(`Scraping URL: ${options.targetURL}`);
+scrape(options)
+  .then(({ filename, result }) => {
+    console.log('Scrape complete.');
+    console.log(`Results found: ${result.length}`);
+
+    return saveToDisk(filename, result)
+  })
+  .then(filename => {
+    console.log(`Results saved to: ${filename}`);
+    process.exit(0);
+  })
+  .catch(err => {
+    console.error('Failed to scrape URL', err);
+    process.exit(1);
+  });

@@ -1,0 +1,65 @@
+[
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Stillwell",
+    "locale_address": "1672 Barrington St, Halifax",
+    "start_time": "6 p.m.",
+    "end_time": "12:30 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax-0",
+    "source_read_time": "Fri, 27 Nov 2020 03:57:49 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Bearly’s House of Blues and Ribs",
+    "locale_address": "1269 Barrington St, Halifax",
+    "start_time": "8:30 p.m.",
+    "end_time": "2 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax-0",
+    "source_read_time": "Fri, 27 Nov 2020 03:57:49 GMT"
+  },
+  {
+    "date": "Sun Nov 21 2021",
+    "locale_name": "Highwayman",
+    "locale_address": "1673 Barrington St, Halifax",
+    "start_time": "7:30 p.m.",
+    "end_time": "12 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax-0",
+    "source_read_time": "Fri, 27 Nov 2020 03:57:49 GMT"
+  },
+  {
+    "date": "Sun Nov 21 2021",
+    "locale_name": "Gahan House",
+    "locale_address": "5239 Sackville St, Halifax",
+    "start_time": "2:30 p.m.",
+    "end_time": "4:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax-0",
+    "source_read_time": "Fri, 27 Nov 2020 03:57:49 GMT"
+  },
+  {
+    "date": "Sun Nov 21 2021",
+    "locale_name": "Princess Nails",
+    "locale_address": "1475 Bedford Highway, Bedford",
+    "start_time": "4 p.m.",
+    "end_time": "6:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax-0",
+    "source_read_time": "Fri, 27 Nov 2020 03:57:49 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Boston Pizza Dartmouth Crossing",
+    "locale_address": "111 Shubie Dr, Dartmouth",
+    "start_time": "6:30 p.m.",
+    "end_time": "8:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax-0",
+    "source_read_time": "Fri, 27 Nov 2020 03:57:49 GMT"
+  },
+  {
+    "date": "Mon Nov 22 2021",
+    "locale_name": "Boston Pizza Dartmouth Crossing",
+    "locale_address": "111 Shubie Dr, Dartmouth",
+    "start_time": "1:30 p.m.",
+    "end_time": "3:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax-0",
+    "source_read_time": "Fri, 27 Nov 2020 03:57:49 GMT"
+  }
+]

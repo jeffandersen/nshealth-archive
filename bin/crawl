@@ -1,0 +1,48 @@
+#!/usr/bin/env node
+
+const path = require('path');
+
+const { search } = require('../lib/search');
+const { scrape, saveToDisk } = require('../lib/scrape');
+
+// Search configuration options
+const searchOptions = {
+  targetURL: process.env.TARGET_URL,
+  documentSelector: process.env.SEARCH_DOCUMENT_CONTENT_SELECTOR,
+  limit: parseInt(process.env.SEARCH_LIMIT, 10),
+};
+
+// Scrape configuration options
+const scrapeConfig = {
+  documentSelector: process.env.SCRAPE_CONTENT_SELECTOR,
+  dateSelector: process.env.SCRAPE_DATE_SELECTOR,
+};
+
+search(searchOptions)
+  .then(({ result, targetURL }) => {
+    console.log(`Scanned: ${targetURL}`);
+    console.log(`Found ${result.length} targets`);
+
+    result.reduce(async (previousPromise, nextTarget) => {
+      const result = await previousPromise;
+      console.log(`\tBegin scraping: ${nextTarget}`); 
+      const opts = {
+        targetURL: nextTarget,
+        ...scrapeConfig,
+      };
+      return scrape(opts)
+        .then(({ filename, result }) => {
+          if (result.length < 1) return;
+          console.log(`\t\tScrape complete for: ${nextTarget}`);
+          return saveToDisk(filename, result)
+        });
+    }, Promise.resolve())
+    .then(() => {
+      console.log('Done scraping');
+      process.exit(0);
+    })
+    .catch(err => {
+      console.error(err);
+      process.exit(1);
+    });
+  })

@@ -1,0 +1,101 @@
+[
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "*Corrected time* Mary’s African Cuisine",
+    "locale_address": "1701 Barrington St, Halifax",
+    "start_time": "4:30 p.m.",
+    "end_time": "7 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:15 GMT"
+  },
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "ROGUE Fitness",
+    "locale_address": "6331 Lady Hammonds Rd, Halifax",
+    "start_time": "6:45 p.m.",
+    "end_time": "9 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:15 GMT"
+  },
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "RIO Pilates & Yoga Studio",
+    "locale_address": "2470 Maynard St, Halifax",
+    "start_time": "6:45 a.m.",
+    "end_time": "9 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:15 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "RIO Pilates & Yoga Studio",
+    "locale_address": "2470 Maynard St, Halifax",
+    "start_time": "6:45 a.m.",
+    "end_time": "9 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:15 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Uncommon Grounds",
+    "locale_address": "1030 South Park St, Halifax",
+    "start_time": "1:30 p.m.",
+    "end_time": "5:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:15 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "The Roxbury Urban Dive Bar",
+    "locale_address": "1743 Grafton St, Halifax",
+    "start_time": "9:30 p.m.",
+    "end_time": "1 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:15 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "The Split Crow Pub",
+    "locale_address": "1855 Granville Street, Halifax",
+    "start_time": "4:30 p.m.",
+    "end_time": "7 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:15 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Mary’s Place Café II",
+    "locale_address": "5982 Spring Garden Rd, Halifax",
+    "start_time": "11:30 a.m.",
+    "end_time": "1:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:15 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Chop Steakhouse & Bar – Sutton Place Hotel",
+    "locale_address": "1680 Grafton St, Halifax",
+    "start_time": "8:30 p.m.",
+    "end_time": "12 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:15 GMT"
+  },
+  {
+    "date": "Sun Nov 21 2021",
+    "locale_name": "Tony’s Famous Donair & Pizza",
+    "locale_address": "2390 Robie St, Halifax",
+    "start_time": "11:30 a.m.",
+    "end_time": "2 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:15 GMT"
+  },
+  {
+    "date": "Mon Nov 22 2021",
+    "locale_name": "The Stubborn Goat Gastropub",
+    "locale_address": "1579 Grafton St, Halifax",
+    "start_time": "12:30 p.m.",
+    "end_time": "2:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:58:15 GMT"
+  }
+]

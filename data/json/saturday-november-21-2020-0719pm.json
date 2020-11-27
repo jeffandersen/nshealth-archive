@@ -1,0 +1,164 @@
+[
+  {
+    "date": "Mon Nov 15 2021",
+    "locale_name": "Darrell's Restaurant",
+    "locale_address": "5576 Fenwick St, Halifax",
+    "start_time": "2:00 p.m.",
+    "end_time": "5:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Tue Nov 16 2021",
+    "locale_name": "The Keg Steakhouse + Bar - Halifax",
+    "locale_address": "1712 Market St, Halifax",
+    "start_time": "9:00 p.m.",
+    "end_time": "close",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Tue Nov 16 2021",
+    "locale_name": "*corrected time* Stillwell",
+    "locale_address": "1672 Barrington St, Halifax",
+    "start_time": "9:00 p.m.",
+    "end_time": "11:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Thai Express",
+    "locale_address": "50 Foulis Row, Dartmouth",
+    "start_time": "12:00 p.m.",
+    "end_time": "1:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Station Six Food and Drink",
+    "locale_address": "247 Herring Cove Rd, Halifax",
+    "start_time": "6:30 p.m.",
+    "end_time": "close",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Thu Nov 18 2021",
+    "locale_name": "Hermitage",
+    "locale_address": "1460 Lower Water St",
+    "start_time": "6:30 p.m.",
+    "end_time": "9:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Thu Nov 18 2021",
+    "locale_name": "Moxie's Grill & Bar",
+    "locale_address": "9 Countryview Dr, Dartmouth",
+    "start_time": "4:30 p.m.",
+    "end_time": "7:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Thu Nov 18 2021",
+    "locale_name": "Mezza Lebanese Kitchen",
+    "locale_address": "16 Garland Ave, Dartmouth",
+    "start_time": "12:00 p.m.",
+    "end_time": "1:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Thu Nov 18 2021",
+    "locale_name": "Gahan House",
+    "locale_address": "5239 Sackville St, Halifax",
+    "start_time": "5:30 p.m.",
+    "end_time": "8:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "Cora Breakfast and Lunch aka. “Cora’s”",
+    "locale_address": "277 Lacewood Dr, Halifax",
+    "start_time": "7:30 a.m.",
+    "end_time": "10:00 a.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Thu Nov 18 2021",
+    "locale_name": "Orange Theory Fitness",
+    "locale_address": "6140 Young St, Unit 40, Halifax",
+    "start_time": "6:30 a.m.",
+    "end_time": "8:30 a.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Tue Nov 16 2021",
+    "locale_name": "Sobeys",
+    "locale_address": "1120 Queen St, Halifax",
+    "start_time": "12:30 p.m.",
+    "end_time": "2:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Sobeys",
+    "locale_address": "1120 Queen St, Halifax",
+    "start_time": "12:30 p.m.",
+    "end_time": "2:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Tue Nov 16 2021",
+    "locale_name": "Superstore",
+    "locale_address": "650 Portland St, Dartmouth",
+    "start_time": "11:00 a.m.",
+    "end_time": "1:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Thu Nov 18 2021",
+    "locale_name": "*corrected time* Vitality MediSpa",
+    "locale_address": "5424 Doyle St, Halifax",
+    "start_time": "11:00 a.m.",
+    "end_time": "2:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "*corrected time* Vitality MediSpa",
+    "locale_address": "5424 Doyle St, Halifax",
+    "start_time": "9:00 a.m.",
+    "end_time": "12:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Atlantic Superstore",
+    "locale_address": "1075 Barrington St, Halifax",
+    "start_time": "4:30 p.m.",
+    "end_time": "5:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  },
+  {
+    "date": "Fri Nov 19 2021",
+    "locale_name": "Atlantic Superstore",
+    "locale_address": "1075 Barrington St, Halifax",
+    "start_time": "2:00 p.m.",
+    "end_time": "3:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/nova-scotia-health-public-health-advises-covid-exposures-locations-across-halifax",
+    "source_read_time": "Fri, 27 Nov 2020 03:59:28 GMT"
+  }
+]
