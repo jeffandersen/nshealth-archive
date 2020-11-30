@@ -1,0 +1,38 @@
+[
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Bar Kismet",
+    "locale_address": "2733 Agricola Street, Halifax",
+    "start_time": "6:30 p.m.",
+    "end_time": "9:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-5-locations-across-nova-scotia",
+    "source_read_time": "Mon, 30 Nov 2020 00:53:23 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Governor’s Pub & Eatery",
+    "locale_address": "233 Esplanade, Sydney",
+    "start_time": "8 p.m.",
+    "end_time": "12:30 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-5-locations-across-nova-scotia",
+    "source_read_time": "Mon, 30 Nov 2020 00:53:23 GMT"
+  },
+  {
+    "date": "Wed Nov 17 2021",
+    "locale_name": "Hermitage Restaurant",
+    "locale_address": "1460 Lower Water St, Halifax",
+    "start_time": "3 p.m.",
+    "end_time": "10 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-5-locations-across-nova-scotia",
+    "source_read_time": "Mon, 30 Nov 2020 00:53:23 GMT"
+  },
+  {
+    "date": "Thu Nov 25 2021",
+    "locale_name": "Fit4Less Sackville",
+    "locale_address": "776 Sackville Dr, Lower Sackville",
+    "start_time": "3:30 p.m.",
+    "end_time": "6 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-5-locations-across-nova-scotia",
+    "source_read_time": "Mon, 30 Nov 2020 00:53:23 GMT"
+  }
+]

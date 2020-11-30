@@ -1,0 +1,83 @@
+[
+  {
+    "date": "Tue Nov 16 2021",
+    "locale_name": "Agricola Street Brasserie",
+    "locale_address": "2540 Agricola St, Halifax",
+    "start_time": "2:00 p.m.",
+    "end_time": "10:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/news-release-potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Sat, 28 Nov 2020 00:50:57 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Two Doors Down",
+    "locale_address": "1533 Barrington St, Halifax",
+    "start_time": "5:00 p.m.",
+    "end_time": "7:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/news-release-potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Sat, 28 Nov 2020 00:50:57 GMT"
+  },
+  {
+    "date": "Sat Nov 20 2021",
+    "locale_name": "Wendy’s Restaurant",
+    "locale_address": "720 Sackville Dr, Sackville",
+    "start_time": "2:00 p.m.",
+    "end_time": "2:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/news-release-potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Sat, 28 Nov 2020 00:50:57 GMT"
+  },
+  {
+    "date": "Sun Nov 21 2021",
+    "locale_name": "Antojos",
+    "locale_address": "1667 Argyle St, Halifax",
+    "start_time": "12:00 p.m.",
+    "end_time": "4:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/news-release-potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Sat, 28 Nov 2020 00:50:57 GMT"
+  },
+  {
+    "date": "Sun Nov 21 2021",
+    "locale_name": "Bicycle Thief",
+    "locale_address": "1475 Lower Water St, Halifax",
+    "start_time": "7:15 p.m.",
+    "end_time": "9:45 p.m.",
+    "source_url": "https://www.nshealth.ca/news/news-release-potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Sat, 28 Nov 2020 00:50:57 GMT"
+  },
+  {
+    "date": "Mon Nov 22 2021",
+    "locale_name": "Lion’s Head Tavern",
+    "locale_address": "3081 Robie Street, Halifax",
+    "start_time": "12:45 p.m.",
+    "end_time": "2:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/news-release-potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Sat, 28 Nov 2020 00:50:57 GMT"
+  },
+  {
+    "date": "Mon Nov 22 2021",
+    "locale_name": "A&W Restaurant",
+    "locale_address": "1748 Bedford Highway, Bedford",
+    "start_time": "11:00 a.m.",
+    "end_time": "7:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/news-release-potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Sat, 28 Nov 2020 00:50:57 GMT"
+  },
+  {
+    "date": "Tue Nov 23 2021",
+    "locale_name": "Fit4Less",
+    "locale_address": "1535 Dresden Row, Halifax",
+    "start_time": "3:30 p.m.",
+    "end_time": "6:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/news-release-potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Sat, 28 Nov 2020 00:50:57 GMT"
+  },
+  {
+    "date": "Thu Nov 25 2021",
+    "locale_name": "Fit4Less",
+    "locale_address": "1535 Dresden Row, Halifax",
+    "start_time": "6:00 p.m.",
+    "end_time": "7:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/news-release-potential-exposure-covid-19-various-halifax-locations",
+    "source_read_time": "Sat, 28 Nov 2020 00:50:57 GMT"
+  }
+]
