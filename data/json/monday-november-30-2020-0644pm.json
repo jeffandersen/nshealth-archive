@@ -1,0 +1,20 @@
+[
+  {
+    "date": "Sun Nov 21 2021",
+    "locale_name": "East Peak Indoor Climbing",
+    "locale_address": "6408 Quinpool Road, Halifax",
+    "start_time": "1:30 p.m.",
+    "end_time": "4:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-2-additional-locations-halifax",
+    "source_read_time": "Wed, 02 Dec 2020 00:53:17 GMT"
+  },
+  {
+    "date": "Sun Nov 21 2021",
+    "locale_name": "Heartwood Cafe",
+    "locale_address": "3061 Gottingen Street, Halifax",
+    "start_time": "4:00 p.m.",
+    "end_time": "7:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-2-additional-locations-halifax",
+    "source_read_time": "Wed, 02 Dec 2020 00:53:17 GMT"
+  }
+]
