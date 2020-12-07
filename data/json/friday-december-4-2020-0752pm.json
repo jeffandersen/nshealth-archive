@@ -1,0 +1,74 @@
+[
+  {
+    "date": "Sun Nov 21 2021",
+    "locale_name": "Mad Hatter Wine Bar",
+    "locale_address": "213 George St, Annapolis Royal",
+    "start_time": "5 p.m.",
+    "end_time": "7:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-seven-locations-across-nova-scotia",
+    "source_read_time": "Sat, 05 Dec 2020 00:54:37 GMT"
+  },
+  {
+    "date": "Mon Nov 22 2021",
+    "locale_name": "Best Buy Mayflower Mall",
+    "locale_address": "800 Grand Lake Rd, Sydney",
+    "start_time": "3:45 p.m.",
+    "end_time": "5:15 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-seven-locations-across-nova-scotia",
+    "source_read_time": "Sat, 05 Dec 2020 00:54:37 GMT"
+  },
+  {
+    "date": "Thu Nov 25 2021",
+    "locale_name": "Miller’s Your Independent Grocer",
+    "locale_address": "21 St Anthony St, Annapolis Royal",
+    "start_time": "4 p.m.",
+    "end_time": "5 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-seven-locations-across-nova-scotia",
+    "source_read_time": "Sat, 05 Dec 2020 00:54:37 GMT"
+  },
+  {
+    "date": "Sat Nov 27 2021",
+    "locale_name": "Miller’s Your Independent Grocer",
+    "locale_address": "21 St Anthony St, Annapolis Royal",
+    "start_time": "12:30 p.m.",
+    "end_time": "2 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-seven-locations-across-nova-scotia",
+    "source_read_time": "Sat, 05 Dec 2020 00:54:37 GMT"
+  },
+  {
+    "date": "Sat Nov 27 2021",
+    "locale_name": "Lucky Rabbit",
+    "locale_address": "15 Church St, Annapolis Royal",
+    "start_time": "2 p.m.",
+    "end_time": "3 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-seven-locations-across-nova-scotia",
+    "source_read_time": "Sat, 05 Dec 2020 00:54:37 GMT"
+  },
+  {
+    "date": "Sat Nov 27 2021",
+    "locale_name": "Bainton’s Tannery Outlet",
+    "locale_address": "213 St George St, Annapolis Royal",
+    "start_time": "3:30 p.m.",
+    "end_time": "4:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-seven-locations-across-nova-scotia",
+    "source_read_time": "Sat, 05 Dec 2020 00:54:37 GMT"
+  },
+  {
+    "date": "Mon Nov 29 2021",
+    "locale_name": "Winners Highland Square Mall",
+    "locale_address": "689 Westville Rd, New Glasgow",
+    "start_time": "12:45 p.m.",
+    "end_time": "2 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-seven-locations-across-nova-scotia",
+    "source_read_time": "Sat, 05 Dec 2020 00:54:37 GMT"
+  },
+  {
+    "date": "Mon Nov 29 2021",
+    "locale_name": "Pet Valu",
+    "locale_address": "38 George St, New Glasgow",
+    "start_time": "12 p.m.",
+    "end_time": "1:15 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-seven-locations-across-nova-scotia",
+    "source_read_time": "Sat, 05 Dec 2020 00:54:37 GMT"
+  }
+]
