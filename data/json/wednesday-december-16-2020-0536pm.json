@@ -1,0 +1,20 @@
+[
+  {
+    "date": "Thu Dec 10 2020",
+    "locale_name": "Andre’s Pizza",
+    "locale_address": "243 S Foord Street, Stellarton",
+    "start_time": "2:30 p.m.",
+    "end_time": "10:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-northern-zone",
+    "source_read_time": "Thu, 17 Dec 2020 01:01:35 GMT"
+  },
+  {
+    "date": "Fri Dec 11 2020",
+    "locale_name": "Andre’s Pizza",
+    "locale_address": "243 S Foord Street, Stellarton",
+    "start_time": "3:00 p.m.",
+    "end_time": "8:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-northern-zone",
+    "source_read_time": "Thu, 17 Dec 2020 01:01:35 GMT"
+  }
+]
