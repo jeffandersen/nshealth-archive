@@ -1,0 +1,29 @@
+[
+  {
+    "date": "Mon Dec 14 2020",
+    "locale_name": "Sobey’s Elmsdale",
+    "locale_address": "269 Hwy 214, Elmsdale",
+    "start_time": "6 a.m.",
+    "end_time": "3:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-location-northern-zone-central-zone-and-air-canada-flight",
+    "source_read_time": "Tue, 22 Dec 2020 01:05:08 GMT"
+  },
+  {
+    "date": "Tue Dec 15 2020",
+    "locale_name": "Sobey’s Elmsdale",
+    "locale_address": "269 Hwy 214, Elmsdale",
+    "start_time": "6 a.m.",
+    "end_time": "11 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-location-northern-zone-central-zone-and-air-canada-flight",
+    "source_read_time": "Tue, 22 Dec 2020 01:05:08 GMT"
+  },
+  {
+    "date": "Fri Dec 11 2020",
+    "locale_name": "Apple Store – Halifax Shopping Centre",
+    "locale_address": "7001 Mumford Rd, Halifax",
+    "start_time": "4 p.m.",
+    "end_time": "6:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-location-northern-zone-central-zone-and-air-canada-flight",
+    "source_read_time": "Tue, 22 Dec 2020 01:05:08 GMT"
+  }
+]
