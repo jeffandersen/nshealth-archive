@@ -1,0 +1,38 @@
+[
+  {
+    "date": "Wed Dec 16 2020",
+    "locale_name": "Sobey’s Russell Lake",
+    "locale_address": "268 Baker Drive, Dartmouth",
+    "start_time": "4:20 p.m.",
+    "end_time": "7:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposures-covid-19-four-locations-central-zone",
+    "source_read_time": "Sun, 27 Dec 2020 01:12:13 GMT"
+  },
+  {
+    "date": "Sat Dec 19 2020",
+    "locale_name": "Sobey’s First Lake",
+    "locale_address": "80 First Lake Drive, Sackville",
+    "start_time": "11:40 a.m.",
+    "end_time": "2:15 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposures-covid-19-four-locations-central-zone",
+    "source_read_time": "Sun, 27 Dec 2020 01:12:13 GMT"
+  },
+  {
+    "date": "Mon Dec 21 2020",
+    "locale_name": "Micmac Mall",
+    "locale_address": "21 Micmac Blvd, Dartmouth",
+    "start_time": "4:40 p.m.",
+    "end_time": "7:15 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposures-covid-19-four-locations-central-zone",
+    "source_read_time": "Sun, 27 Dec 2020 01:12:13 GMT"
+  },
+  {
+    "date": "Mon Dec 21 2020",
+    "locale_name": "ToysRUs",
+    "locale_address": "15 Gale Terrace, Dartmouth",
+    "start_time": "5:25 p.m.",
+    "end_time": "8:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposures-covid-19-four-locations-central-zone",
+    "source_read_time": "Sun, 27 Dec 2020 01:12:13 GMT"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "date": "Sat Jan 02 2021",
+    "locale_name": "Superstore North Sydney",
+    "locale_address": "125 King St., North Sydney",
+    "start_time": "10:00 a.m.",
+    "end_time": "11:30 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-two-locations-eastern-zone",
+    "source_read_time": "Thu, 07 Jan 2021 01:22:20 GMT"
+  },
+  {
+    "date": "Sat Jan 02 2021",
+    "locale_name": "Fabricville",
+    "locale_address": "356 Welton St., Sydney",
+    "start_time": "9:00 a.m.",
+    "end_time": "10:15 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-two-locations-eastern-zone",
+    "source_read_time": "Thu, 07 Jan 2021 01:22:20 GMT"
+  }
+]
