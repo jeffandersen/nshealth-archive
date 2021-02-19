@@ -1,0 +1,38 @@
+[
+  {
+    "date": "Wed Feb 10 2021",
+    "locale_name": "Walmart New Minas",
+    "locale_address": "9097 Commercial St, New Minas",
+    "start_time": "1 p.m.",
+    "end_time": "2:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-3-locations-western-zone",
+    "source_read_time": "Fri, 19 Feb 2021 00:53:19 GMT"
+  },
+  {
+    "date": "Wed Feb 10 2021",
+    "locale_name": "MIDAS New Minas",
+    "locale_address": "9154 Commercial St, New Minas",
+    "start_time": "11 a.m.",
+    "end_time": "1 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-3-locations-western-zone",
+    "source_read_time": "Fri, 19 Feb 2021 00:53:19 GMT"
+  },
+  {
+    "date": "Wed Feb 10 2021",
+    "locale_name": "•Burger King",
+    "locale_address": "9148 Commercial St, New Minas",
+    "start_time": "12 p.m.",
+    "end_time": "1 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-3-locations-western-zone",
+    "source_read_time": "Fri, 19 Feb 2021 00:53:19 GMT"
+  },
+  {
+    "date": "Wed Feb 03 2021",
+    "locale_name": "Walmart New Minas",
+    "locale_address": "9097 Commercial St, New Minas",
+    "start_time": "1 p.m.",
+    "end_time": "5 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-3-locations-western-zone",
+    "source_read_time": "Fri, 19 Feb 2021 00:53:19 GMT"
+  }
+]
