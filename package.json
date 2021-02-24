@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "convert-array-to-csv": "^2.0.0",
-    "json2csv": "^5.0.5",
+    "json2csv": "^5.0.6",
     "puppeteer": "^5.5.0"
   }
 }
