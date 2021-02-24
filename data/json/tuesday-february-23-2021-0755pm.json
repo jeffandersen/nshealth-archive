@@ -1,0 +1,38 @@
+[
+  {
+    "date": "Tue Feb 16 2021",
+    "locale_name": "Atlantic Superstore",
+    "locale_address": "745 Sackville Dr, Lower Sackville",
+    "start_time": "8:15 p.m.",
+    "end_time": "9:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-4-locations-central-zone-one-flight-and-one-updated-flight",
+    "source_read_time": "Wed, 24 Feb 2021 00:54:25 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "locale_name": "Winners Bedford Commons",
+    "locale_address": "181 Damascus Rd, Bedford",
+    "start_time": "10:00 a.m.",
+    "end_time": "11:00 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-4-locations-central-zone-one-flight-and-one-updated-flight",
+    "source_read_time": "Wed, 24 Feb 2021 00:54:25 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "locale_name": "Walmart Bedford Commons",
+    "locale_address": "141 Damascus Rd, Bedford",
+    "start_time": "11:00 a.m.",
+    "end_time": "12:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-4-locations-central-zone-one-flight-and-one-updated-flight",
+    "source_read_time": "Wed, 24 Feb 2021 00:54:25 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "locale_name": "Atlantic Superstore",
+    "locale_address": "1075 Barrington St, Halifax",
+    "start_time": "12:00 p.m.",
+    "end_time": "2:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-4-locations-central-zone-one-flight-and-one-updated-flight",
+    "source_read_time": "Wed, 24 Feb 2021 00:54:25 GMT"
+  }
+]
