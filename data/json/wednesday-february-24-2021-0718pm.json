@@ -1,0 +1,103 @@
+[
+  {
+    "date": "Mon Feb 15 2021",
+    "locale_name": "Callister’s Country Kitchen",
+    "locale_address": "7076 Highway 1 Coldbrook",
+    "start_time": "3:30 p.m.",
+    "end_time": "7 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "locale_name": "Hop Scotch Dinner Club",
+    "locale_address": "1537 Barrington St, Halifax",
+    "start_time": "6:30 p.m.",
+    "end_time": "10 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "locale_name": "Bishop’s Cellar",
+    "locale_address": "1477 Lower Water St, Halifax",
+    "start_time": "9 a.m.",
+    "end_time": "10:30 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  },
+  {
+    "date": "Sun Feb 21 2021",
+    "locale_name": "Sobeys Timberlea",
+    "locale_address": "65 Market Way Ln, Timberlea",
+    "start_time": "12 p.m.",
+    "end_time": "3 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  },
+  {
+    "date": "Sun Feb 21 2021",
+    "locale_name": "Superstore Sackville",
+    "locale_address": "745 Sackville Dr, Lower Sackville",
+    "start_time": "3 p.m.",
+    "end_time": "4:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "start_time": "2 p.m.",
+    "end_time": "3 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "start_time": "2:30 p.m.",
+    "end_time": "3:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  },
+  {
+    "date": "Sat Feb 20 2021",
+    "start_time": "1:30 p.m.",
+    "end_time": "3:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  },
+  {
+    "date": "Sat Feb 20 2021",
+    "start_time": "1:30 p.m.",
+    "end_time": "3:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "start_time": "2 p.m.",
+    "end_time": "3 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "start_time": "2:30 p.m.",
+    "end_time": "3:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  },
+  {
+    "date": "Sat Feb 20 2021",
+    "start_time": "1:30 p.m.",
+    "end_time": "3:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  },
+  {
+    "date": "Sat Feb 20 2021",
+    "start_time": "1:30 p.m.",
+    "end_time": "3:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-one-location-western-zone-four-locations-central-zone-and-various",
+    "source_read_time": "Thu, 25 Feb 2021 00:54:08 GMT"
+  }
+]
