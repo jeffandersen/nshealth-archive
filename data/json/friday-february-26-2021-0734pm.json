@@ -1,0 +1,119 @@
+[
+  {
+    "date": "Fri Feb 19 2021",
+    "locale_name": "Clearwater Seafoods Retail Store",
+    "locale_address": "757 Bedford Hwy, Bedford",
+    "start_time": "2:30 p.m.",
+    "end_time": "5:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  },
+  {
+    "date": "Tue Feb 16 2021",
+    "locale_name": "Sobeys",
+    "locale_address": "612 Main St., Dartmouth",
+    "start_time": "1:30 p.m.",
+    "end_time": "3:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  },
+  {
+    "date": "Sun Feb 21 2021",
+    "locale_name": "Sobeys",
+    "locale_address": "612 Main St., Dartmouth",
+    "start_time": "4:00 p.m.",
+    "end_time": "5:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "locale_name": "Costco",
+    "locale_address": "230 Chain Lake Drive, Halifax",
+    "start_time": "2:30 p.m.",
+    "end_time": "5:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "locale_name": "Shoppers Drug Mart",
+    "locale_address": "766 Sackville Dr, Lower Sackville",
+    "start_time": "2:30 p.m.",
+    "end_time": "5:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  },
+  {
+    "date": "Sat Feb 20 2021",
+    "locale_name": "Tan’s Family Restaurant",
+    "locale_address": "900 Cole Harbour Road, Dartmouth",
+    "start_time": "5:30 p.m.",
+    "end_time": "6:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  },
+  {
+    "date": "Sun Feb 21 2021",
+    "locale_name": "Canadian Tire",
+    "locale_address": "24 Forest Hills Parkway, Dartmouth",
+    "start_time": "1:00 p.m.",
+    "end_time": "2:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  },
+  {
+    "date": "Mon Feb 22 2021",
+    "locale_name": "BMO Bank of Montreal",
+    "locale_address": "111 Ilsley Ave, Dartmouth",
+    "start_time": "10:00 a.m.",
+    "end_time": "10:45 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  },
+  {
+    "date": "Mon Feb 15 2021",
+    "locale_name": "Bedford Sackville Physiotherapy Clinic",
+    "locale_address": "447 Sackville Dr, Lower Sackville",
+    "start_time": "8:00 a.m.",
+    "end_time": "4:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  },
+  {
+    "date": "Sat Feb 20 2021",
+    "locale_name": "Cora’s Restaurant",
+    "locale_address": "1535 Dresden Row, Halifax,",
+    "start_time": "11:00 a.m.",
+    "end_time": "1:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  },
+  {
+    "date": "Sun Feb 21 2021",
+    "locale_name": "Porter’s Lake Pub",
+    "locale_address": "5228 Highway 7 Lakeview Shopping Plaza, Porter's Lake",
+    "start_time": "5:30 p.m.",
+    "end_time": "7:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  },
+  {
+    "date": "Mon Feb 22 2021",
+    "locale_name": "Montana’s",
+    "locale_address": "101 Shubie Dr, Dartmouth",
+    "start_time": "12:30 p.m.",
+    "end_time": "2:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  },
+  {
+    "date": "Sat Feb 20 2021",
+    "locale_name": "**CORRECTION** 2 Doors Down Food & Wine *Restaurant side only*",
+    "locale_address": "1533 Barrington St, Halifax",
+    "start_time": "7:30 p.m.",
+    "end_time": "10:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-11-locations-central-zone",
+    "source_read_time": "Sat, 27 Feb 2021 00:54:36 GMT"
+  }
+]
