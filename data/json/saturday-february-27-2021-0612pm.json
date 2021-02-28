@@ -1,0 +1,74 @@
+[
+  {
+    "date": "Wed Feb 17 2021",
+    "locale_name": "Head Shoppe Mic Mac Mall",
+    "locale_address": "21 Micmac Blvd, Dartmouth",
+    "start_time": "9:15 a.m.",
+    "end_time": "11:00 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-7-locations-central-zone-and-air-canada-flight",
+    "source_read_time": "Sun, 28 Feb 2021 00:57:57 GMT"
+  },
+  {
+    "date": "Thu Feb 18 2021",
+    "locale_name": "Lawton’s Drugs Westphal",
+    "locale_address": "90 Main St. Dartmouth",
+    "start_time": "2:30 p.m.",
+    "end_time": "4:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-7-locations-central-zone-and-air-canada-flight",
+    "source_read_time": "Sun, 28 Feb 2021 00:57:57 GMT"
+  },
+  {
+    "date": "Thu Feb 18 2021",
+    "locale_name": "NSHA Blood Collection Clinic",
+    "locale_address": "5110 St. Margaret's Bay Rd, Tantallon",
+    "start_time": "12:00 p.m.",
+    "end_time": "8:00 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-7-locations-central-zone-and-air-canada-flight",
+    "source_read_time": "Sun, 28 Feb 2021 00:57:57 GMT"
+  },
+  {
+    "date": "Mon Feb 22 2021",
+    "locale_name": "NSHA Blood Collection Clinic",
+    "locale_address": "5110 St. Margaret's Bay Rd, Tantallon",
+    "start_time": "7:00 a.m.",
+    "end_time": "9:00 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-7-locations-central-zone-and-air-canada-flight",
+    "source_read_time": "Sun, 28 Feb 2021 00:57:57 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "locale_name": "Winners Mic Mac Mall",
+    "locale_address": "21 Micmac Blvd, Dartmouth",
+    "start_time": "12:30 p.m.",
+    "end_time": "2:30 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-7-locations-central-zone-and-air-canada-flight",
+    "source_read_time": "Sun, 28 Feb 2021 00:57:57 GMT"
+  },
+  {
+    "date": "Fri Feb 19 2021",
+    "locale_name": "Chapters Mic Mac Mall",
+    "locale_address": "21 Micmac Blvd, Dartmouth",
+    "start_time": "12:00 p.m.",
+    "end_time": "1:15 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-7-locations-central-zone-and-air-canada-flight",
+    "source_read_time": "Sun, 28 Feb 2021 00:57:57 GMT"
+  },
+  {
+    "date": "Tue Feb 23 2021",
+    "locale_name": "Walmart Bedford Commons",
+    "locale_address": "141 Damascus Road, Bedford",
+    "start_time": "11:15 a.m.",
+    "end_time": "12:45 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-7-locations-central-zone-and-air-canada-flight",
+    "source_read_time": "Sun, 28 Feb 2021 00:57:57 GMT"
+  },
+  {
+    "date": "Wed Feb 24 2021",
+    "locale_name": "Dollarama Dartmouth Crossing",
+    "locale_address": "100 Gale Terrace, Dartmouth",
+    "start_time": "9:30 a.m.",
+    "end_time": "10:45 a.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-7-locations-central-zone-and-air-canada-flight",
+    "source_read_time": "Sun, 28 Feb 2021 00:57:57 GMT"
+  }
+]
