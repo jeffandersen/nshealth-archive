@@ -1,0 +1,20 @@
+[
+  {
+    "date": "Thu Feb 18 2021",
+    "locale_name": "East Coast Varsity Dome",
+    "locale_address": "10 Poseidon Ct, Dartmouth",
+    "start_time": "4:30 p.m.",
+    "end_time": "11 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-two-locations-central-zone-2",
+    "source_read_time": "Thu, 11 Mar 2021 00:56:50 GMT"
+  },
+  {
+    "date": "Thu Feb 18 2021",
+    "locale_name": "East Coast Varsity Arena",
+    "locale_address": "15 Ragus Rd, Dartmouth",
+    "start_time": "4:30 p.m.",
+    "end_time": "11 p.m.",
+    "source_url": "https://www.nshealth.ca/news/potential-exposure-covid-19-two-locations-central-zone-2",
+    "source_read_time": "Thu, 11 Mar 2021 00:56:50 GMT"
+  }
+]
